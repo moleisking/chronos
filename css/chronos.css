@@ -1,0 +1,17 @@
+.divAppointment, .divTimeslot {
+    display: inline-block !important;
+}
+
+.frmAppointmentCreate > select, .frmTimeslotCreate > select {   
+    display: inline-block !important; 
+    margin-right: 1vw !important;  
+}
+
+.frmAppointmentCreate > input[type="time"], .frmTimeslotCreate > input[type="time"] {   
+    display: inline-block !important; 
+    margin-right: 1vw !important;  
+}
+
+.btnAppointmentCreate, .btnTimeslotCreate { 
+    display: inline-block !important; 
+}
